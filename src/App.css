@@ -1,0 +1,42 @@
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: blueviolet;
+}
+
+.mai {
+  width: 350px;
+}
+.mai button{
+  width: 100%;
+  margin: 5px 0;
+  padding: 5px;
+  background-color: aliceblue;
+  border: none;
+}
+.data {
+  height: 500px;
+  width: 350px;
+}
+
+.mai input {
+  border: none;
+  padding: 10px 0;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 10px;
+}
+table{
+  width: 100%;
+}
+.data tr{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  color: aliceblue;
+}
+.er{
+  font-size: 18px;
+}
